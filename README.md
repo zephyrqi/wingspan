@@ -4,4 +4,4 @@
 
 This project builds a minimal Wingspan environment for AI training.
 
-Update date: Nov 4, 2025
+Update date: Nov 5, 2025
