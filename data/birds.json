@@ -1,0 +1,18 @@
+{
+  "birds": [
+    {
+      "id": 1,
+      "name": "Mallard",
+      "habitat": ["wetland", "grassland"],
+      "food_cost": { "invertebrate": 1 },
+      "points": 3
+    },
+    {
+      "id": 2,
+      "name": "Red-tailed Hawk",
+      "habitat": ["forest"],
+      "food_cost": { "rodent": 1 },
+      "points": 5
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "actions": {
+    "gain_food": { "type": "gain_food", "amount": 1 },
+    "play_bird": { "type": "play_bird" }
+  }
+}
